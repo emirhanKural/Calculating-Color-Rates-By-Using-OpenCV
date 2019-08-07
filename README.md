@@ -1,7 +1,7 @@
 # Calculating-Color-Rates-By-Using-OpenCV
 
-### Find rates of dominant and other colors in an image.
+ Find rates of dominant and other colors in an image.
 
-### You can see which colors are there,what are their percentage values in a donut graph.
+ You can see which colors are there,what are their percentage values in a donut graph.
 
 
